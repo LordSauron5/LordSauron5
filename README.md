@@ -125,8 +125,8 @@
 <div align="center">
 
   <a href="https://github.com/LordSauron5/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="LordSauron5" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="LordSauron5" height="200" alt="LordSauron5"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="LordSauron5" style="width:500px; height: 200px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="LordSauron5" style="width:500px; height: 200px;" alt="LordSauron5"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordSauron5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="LordSauron5" style="width:500px; height: 200px;" />
   </a>
 </div>
