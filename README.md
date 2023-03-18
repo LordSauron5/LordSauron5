@@ -122,7 +122,7 @@
 
 <h3 align="center">Tyron Aricum's GitHub Stats :-</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
   <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="LordSauron5" style="width: 300px; height: 200px;" />
   </div>
