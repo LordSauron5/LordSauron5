@@ -120,18 +120,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
+
 <h3 align="center">Tyron Aricum's GitHub Stats :-</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="LordSauron5" style="width:500px; height: 200px;" />
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="LordSauron5" style="width:500px; height: 200px;" />
-    </div>
-    <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordSauron5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="LordSauron5" style="width:500px; height: 200px;" />
-    </div>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 5px;">
+    
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="LordSauron5" style="width:350px;" />
+  </div>
+  <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=LordSauron5&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="LordSauron5" style="width:350px;" />
+  </div>
+  <div>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordSauron5&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="LordSauron5" style="width:350px;" />
+  </div>
 </div>
 
 
