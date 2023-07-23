@@ -23,7 +23,7 @@
 
 - 🌍 A Software Developer based in Cape Town, South Africa.
 
-- 🌱 Working as a **Full-Stack Developer** at **[Jumping Fox Software (Pty) Ltd](https://jumpingfoxsoftware.com/)**.
+- 🌱 Working as a **Full-Stack Developer** at **[Elemental Web Solutions (Pty) Ltd](https://elemental.co.za/)**.
 
 - 🎓 Bachelor of Science in Information Technology Graduate of Pearson Institute
 
@@ -140,4 +140,4 @@
 </p>
 
 
-Last Updated: 19-March-2023 by [Tyron Aricum](https://github.com/LordSauron5/)
+Last Updated: 23-July-2023 by [Tyron Aricum](https://github.com/LordSauron5/)
