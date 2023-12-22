@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LordSauron5&label=Profile%20views&color=0e75b6&style=flat" alt="LordSauron5" />
-  <img src="https://img.shields.io/badge/Age-24-blue" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Lives-South%20Africa-blue" />
   <img src="https://img.shields.io/badge/Languages-English%26Afrikaans-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
