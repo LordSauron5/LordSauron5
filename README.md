@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyron Aricum</h1>
-<h3 align="center">Software Developer with 2+ Years Experience in designing, coding, and testing complex systems. <br>Highly proficient in web-applications and database management.🌟.</h3>
+<h3 align="center">Software Developer with 7+ Years Experience in designing, coding, and testing complex systems. <br>Highly proficient in web-applications and database management.🌟.</h3>
 
 <br>
 
@@ -140,4 +140,4 @@
 </p>
 
 
-Last Updated: 23-July-2023 by [Tyron Aricum](https://github.com/LordSauron5/)
+Last Updated: 27-February-2025 by [Tyron Aricum](https://github.com/LordSauron5/)
